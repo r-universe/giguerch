@@ -8,3 +8,8 @@
 	url = https://github.com/giguerch/cuff
 	shallow = true
 	registered = true
+[submodule "mmeln"]
+	path = mmeln
+	url = https://github.com/cran/mmeln
+	shallow = true
+	registered = true
