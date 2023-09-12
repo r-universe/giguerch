@@ -7,4 +7,4 @@
 	url = https://github.com/giguerch/cuff
 [submodule "mmeln"]
 	path = mmeln
-	url = https://github.com/cran/mmeln
+	url = https://github.com/giguerch/mmeln
